@@ -1,4 +1,4 @@
-<div align="center"><img src="ProfileAnimation.gif" style="width: 100px"> </div>
+<div align="center"><img src="profileAnimation.gif" style="width: 100px"> </div>
 <br/>
 
 # I'm Hiroshi
