@@ -1,8 +1,8 @@
-<div style="display: flex; align-items: end; justify-content: start;">
-<img src="animation.gif" style="width: 120px;">
-<h1 style="font-weight: normal; font-size: 40px; border: none; letter-spacing: 8px; margin-left: 16px
-"> I'm Hiroshi</h1>
-</div>
+
+<p style="display: flex; align-items: end; font-size: 40px; gap: 16px; letter-spacing: 4px;
+"><img src="animation.gif" style="width: 80px;"> I'm Hiroshi</p>
+
+
 <p style="text-align: center; letter-spacing: 4px; padding: 16px 0">Welcome!</p>
 
 <h3 style="letter-spacing: 4px;">About me:</h2>
