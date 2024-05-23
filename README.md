@@ -1,4 +1,4 @@
-<h1 style="letter-spacing: 4px; font-weight: normal; font-size: 40px"><img src="animation.gif" alt="Animation" style="width: 30px; margin-right: 16px;"> I'm Hiroshi</h1>
+<h1 style="letter-spacing: 4px; font-weight: normal; font-size: 40px text-align: center;"><img src="animation.gif" alt="Animation" style="width: 30px; margin-right: 16px;"> I'm Hiroshi</h1>
 
 
 <p align="center" style="letter-spacing: 2px;">Welcome!</p>
