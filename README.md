@@ -7,9 +7,9 @@ w e l c o m e !
 
 
 #### About me:
-I'm a web developer, with expertise and focus on React, Next.js, TypeScript, Tailwind CSS.
+I'm a Front-end web developer, with expertise and focus on React, Next.js, TypeScript, Tailwind CSS.
 
-- [My Portfolio](https://github.com/fernandohiroshi/eplay-gamestore-ebac)
+- [My Portfolio](https://fernandohiroshi.vercel.app/)
 
 
 #### Skills:
