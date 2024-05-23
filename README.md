@@ -1,32 +1,8 @@
+<div align="center"><img src="animation.gif" style="width: 160px"> </div>
 
+<h1 style="letter-spacing: 8px">I'm Hiroshi</h1>
 
-<div align="center"> 
-  <img src="animation.gif" alt="Animation" style="width: 60px; margin-right: 16px;"> <br/>
-  <strong style="letter-spacing: 8px; font-weight: normal; font-size: 36px; border-bottom: none;">
-  I'm Hiroshi
-  </strong>
-  <br/>
-  <br/>
-  <p align="center" style="letter-spacing: 2px;">Welcome!</p>
-</div>
-
-
-
-<br/>
-<br/>
-<br/>
-
-
-<b style="letter-spacing: 2px;">About me</b>
-
-<p>I'm a Front-end web developer, with expertise and focus on React, Next.js, TypeScript, Tailwind CSS.</p>
-
----
-<br />
-<b style="letter-spacing: 2px;">LAtest projects:</b>
-<br />
-<br />
-
+### Latest projects:
 
 - [EPLAY - Game store](https://github.com/fernandohiroshi/eplay-gamestore-ebac)
 - [NEPT Guide - (How to set up Next.js with Prettier and Tailwind Sorter integrated into ESLint)](https://github.com/fernandohiroshi/nept-guide)
