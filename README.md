@@ -9,6 +9,9 @@ w e l c o m e !
 #### About me:
 I'm a web developer, with expertise and focus on React, Next.js, TypeScript, Tailwind CSS.
 
+- [My Portfolio](https://github.com/fernandohiroshi/eplay-gamestore-ebac)
+
+
 #### Skills:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
