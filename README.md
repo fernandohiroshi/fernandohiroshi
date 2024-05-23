@@ -30,7 +30,7 @@ I'm a web developer, with expertise and focus on React, Next.js, TypeScript, Tai
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Linux one love! 
-[![](https://skillicons.dev/icons?i=linux,ubunto,kali)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linux,ubuntu,kali)](https://skillicons.dev)
 
 
 ### Latest projects:
