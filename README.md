@@ -1,11 +1,8 @@
-<div align="center">
-  <img src="animation.gif" alt="Animation" style="width: 80px;"> <br>
-  <h1 style="letter-spacing: 4px; font-size: 32px; text-align: center; border: none; margin-bottom: 40px">I'm Hiroshi</h1> 
-</div>
+# <img src="animation.gif" alt="Animation" style="width: 50px;"> <strong style="text-decoration: none;">I'm Hiroshi</strong>
 
-<p align="center"  style="letter-spacing: 2px" >Welcome!</p>
+<p align="center" style="letter-spacing: 2px;">Welcome!</p>
 
-<p style="letter-spacing: 2px" >About me</p>
+<p style="letter-spacing: 2px;">About me</p>
 
 I'm a Front-end web developer, with expertise and focus on React, Next.js, TypeScript, Tailwind CSS.
 
