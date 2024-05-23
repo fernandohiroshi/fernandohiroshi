@@ -1,13 +1,14 @@
 
 
 <div align="center"> 
-  <img src="animation.gif" alt="Animation" style="width: 120px; margin-right: 16px;"> 
+  <img src="animation.gif" alt="Animation" style="width: 60px; margin-right: 16px;"> 
   <h1 style="letter-spacing: 8px; font-weight: normal; font-size: 36px; border-bottom: none;">
   I'm Hiroshi
   </h1>
+  <p align="center" style="letter-spacing: 2px;">Welcome!</p>
 </div>
 
-<p align="center" style="letter-spacing: 2px;">Welcome!</p>
+
 
 <br/>
 <br/>
