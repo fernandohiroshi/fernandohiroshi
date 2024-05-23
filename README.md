@@ -1,10 +1,11 @@
-<div align="center"><img src="animation.gif" style="width: 160px"> </div>
+<div align="center"><img src="animation.gif" style="width: 100px"> </div>
+<br/>
 
-<h1 style="border: none">I'm Hiroshi</h1>
+# I'm Hiroshi
 
 w e l c o m e !
+<br/><br/><br/>
 
----
 
 #### About me:
 I'm a web developer, with expertise and focus on React, Next.js, TypeScript, Tailwind CSS.
