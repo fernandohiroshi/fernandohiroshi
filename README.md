@@ -30,9 +30,6 @@ I'm a Front-end web developer, with expertise and focus on React, Next.js, TypeS
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Linux one love! 
-[![](https://skillicons.dev/icons?i=linux,ubuntu,kali)](https://skillicons.dev)
-
 
 ### Latest projects:
 
@@ -47,12 +44,6 @@ I'm a Front-end web developer, with expertise and focus on React, Next.js, TypeS
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fernandohiroshidev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5545988311915)
 
-
-
-
----
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandohiroshi&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandohiroshi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+### Linux one love! 
+[![](https://skillicons.dev/icons?i=linux,ubuntu,kali)](https://skillicons.dev)
 </div>
