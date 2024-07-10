@@ -36,7 +36,7 @@ I'm a Front-end web developer, with expertise and focus on React, Next.js, TypeS
 
 ### Latest projects:
 
-- [Tokyo Wave - Models Agency (Next.Js + CMS)]([https://github.com/fernandohiroshi/animate-card-button](https://github.com/fernandohiroshi/tokyo-wave))
+- [Tokyo Wave - Models Agency (Next.Js + CMS)](https://github.com/fernandohiroshi/tokyo-wave)
 - [EPLAY - Game store](https://github.com/fernandohiroshi/eplay-gamestore-ebac)
 - [NEPT Guide - (How to set up Next.js with Prettier and Tailwind Sorter integrated into ESLint)](https://github.com/fernandohiroshi/nept-guide)
 - [Disney Plus Landing Page](https://github.com/fernandohiroshi/disneyplus-clone-ebac)
