@@ -1,7 +1,6 @@
 <div align="center"><img src="profileAnimation.gif" style="width: 240px"> </div>
 
 # I'm Hiroshi 
-### 武田広司
 
 w e l c o m e !
 <br/><br/><br/>
