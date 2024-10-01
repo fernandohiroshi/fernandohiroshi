@@ -1,4 +1,4 @@
-<div align="center"><img src="profileAnimation.gif" style="width: 240px"> </div>
+<div align="center"><img src="profileAnimation.gif" style="width: 200px"> </div>
 
 # I'm Hiroshi 
 
@@ -7,9 +7,11 @@ w e l c o m e !
 
 
 #### About me:
-I'm a Front-end web developer, with expertise and focus on React, Next.js, TypeScript, Tailwind CSS.
+I am a web developer, specializing in React, Next.js, TypeScript, and Tailwind CSS, with advanced fluency in Japanese. As the founder of Konbini Code, I provide website creation services with unique underground designs, utilizing the latest technologies in front-end development.
 
-- [My Portfolio](https://fernandohiroshi.com)
+[🟣 My Portfolio](https://konbinicode.com/en)
+[⚪ My Portfolio](https://fernandohiroshi.com)
+
 
 
 #### Skills:
@@ -44,12 +46,11 @@ I'm a Front-end web developer, with expertise and focus on React, Next.js, TypeS
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 
-### Latest projects:
-
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-hiroshi/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernando_hiroshi/)
+
 
 
 <div align="left">
