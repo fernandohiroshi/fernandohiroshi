@@ -1,6 +1,6 @@
 <div align="center"><img src="profileAnimation.gif" style="width: 200px"> </div>
 
-# I'm Hiroshi 
+# I'm Hirøshi 
 
 w e l c o m e !
 <br/><br/><br/>
