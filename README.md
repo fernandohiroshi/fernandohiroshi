@@ -10,9 +10,9 @@ I am a web developer, specializing in React, Next.js, TypeScript, and Tailwind C
 <br/>
 
 ###
-[🟣 Konbini Code](https://konbinicode.com)  
+[🟣 Konbini Code | コンビニコード](https://konbinicode.com)  
 ###
-[⚪ My Portfolio](https://fernandohiroshi.com)
+[⚪ Portfolio | ポートフォリオ](https://fernandohiroshi.com)
 <br/>
 
 #### Socials:
