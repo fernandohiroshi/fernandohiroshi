@@ -1,5 +1,3 @@
-<div align="center"><img src="profileAnimation.gif" style="width: 200px"> </div>
-
 # I'm Hirøshi 
 
 w e l c o m e !
