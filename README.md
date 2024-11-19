@@ -1,7 +1,7 @@
 # I'm Hirøshi 
 
 w e l c o m e !
-<br/><br/><br/>
+<br/><br/>
 
 #### About me:
 I am a web developer, specializing in React, Next.js, TypeScript, and Tailwind CSS, with advanced fluency in Japanese. As the founder of Konbini Code, I provide website creation services with unique underground designs, utilizing the latest technologies in front-end development.
