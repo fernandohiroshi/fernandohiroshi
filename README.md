@@ -7,6 +7,9 @@ w e l c o m e !
 I am a web developer, specializing in React, Next.js, TypeScript, and Tailwind CSS, with advanced fluency in Japanese. As the founder of Konbini Code, I provide website creation services with unique underground designs, utilizing the latest technologies in front-end development.
 <br/>
 
+[My Portfolio](https://fernandohiroshi.com/)
+
+
 #### Skills:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
