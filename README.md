@@ -49,4 +49,4 @@ I am a web developer, specializing in React, Next.js, TypeScript, and Tailwind C
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <br/>
 
-[![Hiroshi github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/fernandohiroshi/github-readme-stats)
+[![Hiroshi github stats](https://github-readme-stats.vercel.app/api?username=fernandohiroshi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/fernandohiroshi/github-readme-stats)
