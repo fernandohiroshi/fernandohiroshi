@@ -8,8 +8,8 @@ I am a web developer, specializing in React, Next.js, TypeScript, and Tailwind C
 <br/>
 
 💎 [Konbini Code](https://fernandohiroshi.com/)
-🟣 [My Portfolio](https://fernandohiroshi.com/)
 
+🟣 [My Portfolio](https://fernandohiroshi.com/)
 
 
 #### Skills:
