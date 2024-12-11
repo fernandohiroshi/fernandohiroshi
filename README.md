@@ -11,6 +11,10 @@ I am a web developer, specializing in React, Next.js, TypeScript, and Tailwind C
 
 🟣 [My Portfolio](https://fernandohiroshi.com) - ポートフォリオ
 
+#### Latest works:
+
+https://www.carolinesouza.art/
+https://topbebidas.com/
 
 #### Skills:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -27,3 +31,5 @@ I am a web developer, specializing in React, Next.js, TypeScript, and Tailwind C
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
