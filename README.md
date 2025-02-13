@@ -13,7 +13,7 @@ I am a web developer, specializing in React, Next.js, TypeScript, and Tailwind C
 
 #### Latest works:
 
-- [carolinesouza.com](https://www.carolinesouza.art/) 
+- [carolinesouza.art](https://www.carolinesouza.art/) 
 
 - [topbebidas.com](https://topbebidas.com/)
   
