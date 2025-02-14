@@ -13,6 +13,8 @@ I am a web developer, specializing in React, Next.js, TypeScript, and Tailwind C
 
 #### Latest works:
 
+- [drhairtransplantecapilar.com.br](https://drhairtransplantecapilar.com.br/) 
+
 - [carolinesouza.art](https://www.carolinesouza.art/) 
 
 - [topbebidas.com](https://topbebidas.com/)
