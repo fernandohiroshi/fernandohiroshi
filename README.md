@@ -4,7 +4,7 @@ w e l c o m e !
 <br/><br/>
 
 #### About me:
-I am a web developer, specializing in React, Next.js, TypeScript, and Tailwind CSS, with advanced fluency in Japanese. As the founder of Konbini Code, I provide website creation services with unique underground designs, utilizing the latest technologies in front-end development.
+I am a web developer, specializing in React, Next.js, TypeScript, and Tailwind CSS, with fluency in Japanese. As the founder of Konbini Code, I provide website creation services with unique underground designs, utilizing the latest technologies in front-end development.
 <br/>
 
 - [Konbini Code](https://konbinicode.com/en) - サイト作成とウェブ開発サービス.
