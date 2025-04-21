@@ -12,9 +12,9 @@ Frontend developer with 3+ years of experience specializing in Next.js, React, a
 
 - [viptech.store](https://viptech.store) - フルスタックEコマースプラットフォーム
 
-- [drhairtransplantecapilar.com.br](https://drhairtransplantecapilar.com.br/) - 医療サービスウェブサイト
-
 - [carolinesouza.art](https://www.carolinesouza.art/) - アーティストポートフォリオ
+
+- [drhairtransplantecapilar.com.br](https://drhairtransplantecapilar.com.br/) - 医療サービスウェブサイト
 
 
 ## Skills
