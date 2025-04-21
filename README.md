@@ -1,9 +1,4 @@
-<p align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 12px;">
-    <span style="font-size: 20px;">W e l c o m e !</span>
-    <img src="ghost.gif" alt="Ghost GIF" width="100"/>
-  </div>
-</p>
+W e l c o m e !
 <br/>
 
 #### About me:
