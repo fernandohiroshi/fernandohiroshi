@@ -1,7 +1,12 @@
-W e l c o m e !
-<hr style="border: none; height: 1px; background-color: #eee;" />
+<p align="center">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 12px;">
+   w e l c o m e !
+    <img src="ghost.gif" alt="Ghost GIF" width="100"/>
+  </div>
+</p>
+<br />
 
-#### About me:
+## About me:
 Frontend developer with 3+ years of experience specializing in Next.js, React, and TypeScript. Founder of Konbini Code, where I deliver modern web solutions with unique underground design aesthetics. My multicultural background includes 10+ years in Japan, giving me a global perspective and Japanese language fluency. Passionate about creating high-performance, visually distinctive web applications with meticulous attention to detail.
 
 - [My Portfolio](https://fernandohiroshi.com) - ポートフォリオ
@@ -15,8 +20,7 @@ Frontend developer with 3+ years of experience specializing in Next.js, React, a
 - [carolinesouza.art](https://www.carolinesouza.art/) - アーティストポートフォリオ
 
 - [drhairtransplantecapilar.com.br](https://drhairtransplantecapilar.com.br/) - 医療サービスウェブサイト
-<hr style="border: none; height: 1px; background-color: #eee;" />
-
+<br />
 
 ## Skills
 
