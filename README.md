@@ -10,7 +10,7 @@ Frontend developer with 3+ years of experience specializing in Next.js, React, a
 
 *Latest works:*
 
-- [viptech.store](https://viptech.store) - フルスタックEコマースプラットフォーム
+- [viptech.store](https://viptech.store) - フルスタックEコマースプラットフォーム 💎
 
 - [carolinesouza.art](https://www.carolinesouza.art/) - アーティストポートフォリオ
 
