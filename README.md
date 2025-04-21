@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./profileAnimation.gif" alt="Animação" width="160" />
-</p>
 w e l c o m e !
 <br/><br/>
 
