@@ -8,10 +8,10 @@
 ## About:
 Web developer with 3 years of experience in front-end (Next.js, React, Node.js, TypeScript, Tailwind CSS) and back-end (Express, Prisma, MongoDB). Founder of Konbini Code, creating responsive web solutions. Continuously learning modern technologies. With 10+ years in Japan, I offer a multicultural perspective and strong problem-solving skills honed in hospitality.
 
-- [My Portfolio](https://fernandohiroshi.com) - ポートフォリオ
+- [My Portfolio](https://fernandohiroshi.com)
   
-- [Konbini Code](https://konbinicode.com/en) - サイト作成とウェブ開発サービス
-
+- [Konbini Code](https://konbinicode.com/en)
+  
 *Featured work:*
 
 - [viptech.store](https://viptech.store) - フルスタックEコマースプラットフォーム 💎  
