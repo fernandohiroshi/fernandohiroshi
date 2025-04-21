@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="ghost.gif" alt="Ghost GIF" width="200"/>
+</p>
+
+
+
 w e l c o m e !
 <br/><br/>
 
