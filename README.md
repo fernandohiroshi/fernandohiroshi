@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="ghost.gif" alt="Ghost GIF" width="80"/>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 12px;">
+    <span style="font-size: 20px;">W e l c o m e !</span>
+    <img src="ghost.gif" alt="Ghost GIF" width="100"/>
+  </div>
 </p>
-
-
-
-w e l c o m e !
-<br/><br/>
+<br/>
 
 #### About me:
 Frontend developer with 3+ years of experience specializing in Next.js, React, and TypeScript. Founder of Konbini Code, where I deliver modern web solutions with unique underground design aesthetics. My multicultural background includes 10+ years in Japan, giving me a global perspective and Japanese language fluency. Passionate about creating high-performance, visually distinctive web applications with meticulous attention to detail.
