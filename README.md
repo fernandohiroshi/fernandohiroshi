@@ -15,6 +15,7 @@ Frontend developer with 3+ years of experience specializing in Next.js, React, a
 - [carolinesouza.art](https://www.carolinesouza.art/) - アーティストポートフォリオ
 
 - [drhairtransplantecapilar.com.br](https://drhairtransplantecapilar.com.br/) - 医療サービスウェブサイト
+<hr style="border: none; height: 1px; background-color: #eee;" />
 
 
 ## Skills
