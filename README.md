@@ -13,13 +13,9 @@ Frontend developer with 3+ years of experience specializing in Next.js, React, a
   
 - [Konbini Code](https://konbinicode.com/en) - サイト作成とウェブ開発サービス
 
-*Latest works:*
+*Featured work:*
 
-- [viptech.store](https://viptech.store) - フルスタックEコマースプラットフォーム 💎
-
-- [carolinesouza.art](https://www.carolinesouza.art/) - アーティストポートフォリオ
-
-- [drhairtransplantecapilar.com.br](https://drhairtransplantecapilar.com.br/) - 医療サービスウェブサイト
+- [viptech.store](https://viptech.store) - フルスタックEコマースプラットフォーム 💎  
 <br />
 
 ## Skills
