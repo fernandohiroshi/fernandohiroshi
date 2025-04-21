@@ -1,7 +1,7 @@
 <p align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 12px;">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 6px;">
    W e l c o m e !
-    <img src="ghost.gif" alt="Ghost GIF" width="100"/>
+    <img src="ghost.gif" alt="animation" width="80"/>
   </div>
 </p>
 
