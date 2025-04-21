@@ -6,7 +6,7 @@
 </p>
 
 ## About:
-Web developer with 3 years of experience in front-end (Next.js, React, Node.js, TypeScript, Tailwind CSS) and back-end (Express, Prisma, MongoDB). Founder of Konbini Code, creating responsive web solutions. Continuously learning modern technologies. With 10+ years in Japan, I offer a multicultural perspective and strong problem-solving skills honed in hospitality.
+Web developer with 3 years of experience, specialized in front-end development with a focus on Next.js, React, TypeScript, Node.js, and Tailwind CSS. Currently improving skills in React Native, Express, Prisma, and MongoDB to deliver complete web solutions. Founder of Konbini Code, building responsive and functional websites. Constantly evolving and keeping up with the latest technologies. With over 10 years of experience living in Japan, I bring a multicultural perspective and strong adaptability.
 
 - [My Portfolio](https://fernandohiroshi.com)
   
