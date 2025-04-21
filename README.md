@@ -1,9 +1,6 @@
 <p align="center">
   <img src="./profileAnimation.gif" alt="Animação" width="160" />
 </p>
-
-# I'm Hirøshi  
-
 w e l c o m e !
 <br/><br/>
 
