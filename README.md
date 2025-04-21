@@ -1,4 +1,4 @@
-# I'm Hirøshi  ![Descrição do GIF](./R.gif)
+# I'm Hirøshi  <img src="./R.gif" alt="Descrição do GIF" width="20" style="vertical-align: middle;">
 
 w e l c o m e !
 <br/><br/>
