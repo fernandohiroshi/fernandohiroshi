@@ -1,9 +1,4 @@
-<p align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 6px;">
-   W e l c o m e !
-    <img src="ghost.gif" alt="animation" width="80"/>
-  </div>
-</p>
+W e l c o m e !
 
 ## About:
 Web developer with 3 years of experience, specialized in front-end development with a focus on Next.js, React, TypeScript, Node.js, and Tailwind CSS. Currently improving skills in React Native, Express, Prisma, and MongoDB to deliver complete web solutions. Founder of Konbini Code, building responsive and functional websites. Constantly evolving and keeping up with the latest technologies. With over 10 years of experience living in Japan, I bring a multicultural perspective and strong adaptability.
