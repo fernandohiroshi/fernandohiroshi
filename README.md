@@ -1,8 +1,10 @@
 W e l c o m e !
 
 ## About:
-Web Developer with 3 years of experience specializing in front-end technologies like Next.js, React, TypeScript, and Tailwind CSS. Expanding skills in React Native and back-end (Node.js, Express, PostgreSQL) to deliver scalable fullstack solutions.
+Web Developer with 3 years of experience specializing in front-end technologies like Next.js, React, TypeScript, and Tailwind CSS. Expanding skills in React Native and back-end (Node.js, Express, PostgreSQL, MongoDB, Prisma ORM) to deliver scalable fullstack solutions.
+
 Founder of Konbini Code, creating modern, responsive websites from landing pages to micro e-commerces. I manage projects end-to-end, focusing on clean code, performance, and mobile-first design.
+
 With over 10 years living in Japan, I bring a multicultural perspective and strong user experience focus.
 Always curious and learning, staying up to date with the latest technologies.
 
