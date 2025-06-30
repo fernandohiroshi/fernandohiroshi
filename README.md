@@ -1,22 +1,21 @@
 W e l c o m e !
 
 ## About:
-Web Developer with 3 years of experience specializing in front-end technologies like Next.js, React, TypeScript, and Tailwind CSS. Expanding skills in React Native and back-end (Node.js, Express, PostgreSQL, MongoDB, Prisma ORM) to deliver scalable fullstack solutions.
+Web Developer and Front-End Engineer specialized in technologies such as Next.js, React, TypeScript, and Tailwind CSS. Continuously refining skills in React Native and back-end development (Node.js, Nest.js, PostgreSQL, MongoDB, Prisma ORM) to deliver scalable and integrated fullstack solutions.
 
-Founder of Konbini Code, creating modern, responsive websites from landing pages to micro e-commerces. I manage projects end-to-end, focusing on clean code, performance, and mobile-first design.
+Founder of Konbini Code, where I create modern, responsive websites ranging from landing pages to micro e-commerce stores. I manage projects end-to-end with a strong focus on clean code, performance optimization, and mobile-first design principles.
 
-With over 10 years living in Japan, I bring a multicultural perspective and strong user experience focus.
-Always curious and learning, staying up to date with the latest technologies.
+With over 10 years living in Japan, I bring a multicultural perspective combined with a deep commitment to delivering excellent user experiences. Always curious and dedicated to continuous learning, I stay up to date with the latest technologies and industry best practices.
 
 - [My Portfolio](https://fernandohiroshi.com)
-  
 - [Konbini Code](https://konbinicode.com/en)
   
-*Featured work:*
+## Featured projects
 
-- [viptech.store](https://viptech.store) - フルスタックEコマースプラットフォーム 💎  
+- [viptech.store](https://viptech.store)
+- [PlanC](https://planc-saas.vercel.app/)
 
-## Stack:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink?style=flat&logo=SASS&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=flat&logo=strapi&logoColor=white) ![ShadcnUI](https://img.shields.io/badge/shadcn.ui-000000?style=flat&logo=shadcnui&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
+## Stacks
 
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,nestjs,prisma,mongodb,postgres,linux,figma,tailwind,css,sass,html,git,jest,vercel,zustand&perline=6)](https://skillicons.dev)
