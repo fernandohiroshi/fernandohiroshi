@@ -18,4 +18,4 @@ With over 10 years living in Japan, I bring a multicultural perspective combined
 
 ## Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,nestjs,prisma,mongodb,postgres,linux,figma,tailwind,css,sass,html,git,jest,vercel,zustand&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,nestjs,prisma,mongodb,postgres,linux,figma,tailwind,css,sass,html,git,jest,vercel,zustand&perline=9)](https://skillicons.dev)
