@@ -9,8 +9,10 @@ I am currently pursuing a degree in Technology in Cybersecurity Management, expl
 
 I aim to apply and expand my technical expertise in web development and digital security, contributing to innovative and high-quality projects.
 
-- [My Portfolio](https://fernandohiroshi.com)
-- [Konbini Code](https://konbinicode.com/en)
+
+- [ferandohiroshi.com](https://fernandohiroshi.com)
+- [konbinicode.com](https://konbinicode.com/en)
+  
   
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
