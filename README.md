@@ -12,19 +12,17 @@ I aim to apply and expand my technical expertise in web development and digital 
 - [My Portfolio](https://fernandohiroshi.com)
 - [Konbini Code](https://konbinicode.com/en)
 
-## Stacks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
-![Sass](https://img.shields.io/badge/-Sass-000?style=flat-square&logo=sass&logoColor=CC6699)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js&logoColor=339933)
-![NestJS](https://img.shields.io/badge/-NestJS-000?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Prisma](https://img.shields.io/badge/-Prisma-000?style=flat-square&logo=prisma&logoColor=2D3748)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248)
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-000?style=flat-square&logo=jest&logoColor=C21325)
+
+
+
+
